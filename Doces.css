@@ -1,0 +1,13 @@
+img{
+    float: left;
+    margin-right: 12px;
+}
+body{
+    background-color:  #BC8F8F;
+}
+div{
+    text-align: center;
+}
+p{
+    font-size: 40px;
+}
