@@ -3,5 +3,11 @@ img{
     margin-right: 12px;
 }
 P{
-    font-size: 20px;
+    font-size: 40px;
+}
+body{
+    background-color: #BC8F8F;
+}
+div{
+    text-align: center;
 }
